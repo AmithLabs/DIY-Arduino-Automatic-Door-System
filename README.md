@@ -1,9 +1,9 @@
 # Arduino Automatic Door with Ultrasonic Sensor
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/QqiE--cGMuM/0.jpg)](https://youtu.be/QqiE--cGMuM)
 
 📺 **Watch the Full Build Video on YouTube**
-https://youtu.be/YOUR_VIDEO_ID
+https://youtu.be/QqiE--cGMuM
 
 ---
 
